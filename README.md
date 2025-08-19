@@ -1,16 +1,15 @@
-# **Tema escolhido:** Nome da aplicação ou produto
+# **Tema escolhido:** Plataforma de Gestão de Tarefas para Times Pequenos
 
 Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário e Front-End (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
 ## Componentes do Grupo
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- Higor Augusto 
+- Lucas Pimentel
 
 ## Resumo
 
-Apresente uma breve descrição da sua aplicação ou produto.
+Uma aplicação focada em gestão de atividades para times pequenos, com Dashboards para acompanhamento de projetos e check-lists de atividades por usuários.
 
 ## Introdução
 
@@ -90,3 +89,4 @@ Apresente uma breve descrição da sua aplicação ou produto.
 <!-- TODOs:
 - Add exemplos
  -->
+
