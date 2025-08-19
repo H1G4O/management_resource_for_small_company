@@ -9,10 +9,11 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 
 ## Resumo
 
-Uma aplicação focada em gestão de atividades para times pequenos, com Dashboards para acompanhamento de projetos e check-lists de atividades por usuários.
+Uma aplicação focada em gestão de atividades para times pequenos e freelancers, com Dashboards, linha do tempo para acompanhamento de projetos e check-lists de atividades por usuários, além de fluxo de tarefas customizável.
 
 ## Introdução
 
+Pequenos times sem um software de gestão de 
 - Apresente uma contextualização para o problema que o serviço ou poduto proposto irá resolver e por quê esse tipo de aplicação é necessária.
 - Em uma única frase, resuma o objetivo do serviço ou poduto.
 - Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
@@ -89,4 +90,5 @@ Uma aplicação focada em gestão de atividades para times pequenos, com Dashboa
 <!-- TODOs:
 - Add exemplos
  -->
+
 
