@@ -13,23 +13,51 @@ Uma aplicação focada em gestão de atividades para times pequenos e freelancer
 
 ## Introdução
 
-Pequenos times sem um software de gestão de 
-- Apresente uma contextualização para o problema que o serviço ou poduto proposto irá resolver e por quê esse tipo de aplicação é necessária.
-- Em uma única frase, resuma o objetivo do serviço ou poduto.
-- Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
+Times pequenos e freelancers sabem bem como é difícil manter tudo em ordem: prazos apertados, várias entregas acontecendo ao mesmo tempo e cada pessoa organizando as coisas do seu jeito. Ferramentas muito complexas acabam atrapalhando mais do que ajudando, e as mais simples nem sempre dão conta do recado.
+
+Nosso serviço chega para resolver isso, juntando em um só lugar o que eles realmente precisam: dashboards claros, linha do tempo para acompanhar projetos e checklists de atividades por pessoa, tudo de forma simples e personalizável.
+
+- Ajudar pequenos times a se organizarem melhor, acompanharem prazos e colaborarem sem complicação.
+
+- Uma plataforma leve, intuitiva e colaborativa, que dá clareza ao trabalho de cada um e deixa o time mais produtivo sem burocracia.
 
 ## Publico Alvo
 
-- Determine o seu público alvo:
+- Pequenos times (2 a 10 pessoas)
+- Freelancers que trabalham em colaboração
+- Pequenas empresas em crescimento
 
 ### Personas
 
-- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
-- Quais informações sobre o usuário o serviço ou poduto deve guardar?
+  - Persona primaria:
 
-  - Persona primaira ...
-  - Persona secundária ...
-  - Outras personas ...
+*Dono de agência pequena, coordenador de startup ou gestor de equipe com até 10 pessoas*
+
+    --Precisa visão geral (dashboards, timeline, fluxo customizável) e controle das entregas
+
+  - Persona secundária:
+
+*Profissional fixo ou parceiro recorrente* (designer, dev, redator, analista)
+
+    --Executor fixo, busca clareza de prazos, checklists simples e notificações.
+  
+  - Outras personas:
+
+*Freelancer contratado pontualmente para reforçar o time em um projeto*
+
+    --Freelancer eventual, precisa de acesso limitado, tarefas bem definidas e comunicação centralizada.
+
+### Informações fornecidas para o serviço
+
+- Usuário: nome, e-mail, senha, função (gestor, membro, externo).
+
+- Equipe/Projeto: nome da equipe, projetos, prazos, responsáveis, fluxo de tarefas.
+
+- Atividades: tarefas atribuídas, status, prazos, anexos, observações.
+
+- Colaboração: comentários, histórico de alterações, checklists.
+
+- Visão Geral: dashboards, linha do tempo, métricas de produtividade.
 
 ### Mapa de empatia
 
@@ -46,8 +74,17 @@ Pequenos times sem um software de gestão de
 
 ## Contexto de uso
 
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
-- Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
+### Ambiente de Uso
+
+- Aplicação utilizada em ambiente digital, principalmente no trabalho remoto, híbrido ou em pequenos escritórios com acesso por computadores e dispositivos móveis, durante a execução e organização de tarefas e acompanhamento de entregas.
+
+### Contexto Social
+
+- Equipes pequenas, muitas vezes distribuídas geograficamente, que precisam de colaboração ágil e comunicação clara.
+
+- Times com recursos limitados, buscando soluções acessíveis e simples, que otimizem tempo e produtividade.
+
+- 
 - Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
 - O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
 
@@ -90,5 +127,6 @@ Pequenos times sem um software de gestão de
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
