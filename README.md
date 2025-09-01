@@ -46,16 +46,14 @@ Nossa plataforma resolve isso oferecendo:
 
 ## Personas
 
-### Persona Primária
+### Persona Primária – Ricardo
 
-**Ricardo Alves**  
-- **Idade:** 34 anos  
-- **Cargo:** Dono de agência de marketing digital (8 pessoas)  
-- **Características:** Líder e tomador de decisão, multitarefas, pragmático, conectado.  
-- **Contexto Social:** Networking, busca reputação e credibilidade.  
-- **Contexto Econômico:** Orçamento controlado, procura soluções custo-benefício.  
-- **Contexto Cultural:** Cultura de startups/agências criativas, aberta à inovação.  
-- **Necessidades na aplicação:** Dashboards claros, linha do tempo para múltiplos projetos, checklists para garantir prazos.
+- **O que vê:** Calendário lotado, e-mails, planilhas, KPIs fragmentados.  
+- **O que ouve:** Clientes cobrando status, equipe pedindo prioridades, relatórios financeiros.  
+- **O que diz e faz:** Define prioridades, delega tarefas, acompanha entregas vs. escopo.  
+- **O que pensa e sente:** Pressão por prazos, busca previsibilidade e dados confiáveis.  
+- **Dores:** Falta de centralização, retrabalho, status desatualizado.  
+- **Ganhos:** Painel central com métricas, checklists claros, menos retrabalho.
 
 ### Persona Secundária
 
@@ -175,6 +173,7 @@ Nossa plataforma resolve isso oferecendo:
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
