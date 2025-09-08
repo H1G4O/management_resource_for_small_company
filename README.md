@@ -48,26 +48,15 @@ Nossa plataforma resolve isso oferecendo:
 
 ### Persona Primária
 
-**Ricardo Alves**  
-- **Idade:** 34 anos  
-- **Cargo:** Dono de agência de marketing digital (8 pessoas)  
-- **Características:** Líder e tomador de decisão, multitarefas, pragmático, conectado.  
-- **Contexto Social:** Networking, busca reputação e credibilidade.  
-- **Contexto Econômico:** Orçamento controlado, procura soluções custo-benefício.  
-- **Contexto Cultural:** Cultura de startups/agências criativas, aberta à inovação.  
-- **Hábitos de desenvolvimento pessoal:** Participa de sessões com coach e lê livros de autoajuda.  
-- **Necessidades na aplicação:** Dashboards claros, linha do tempo para múltiplos projetos, checklists para garantir prazos.
+Luís Gasparetto, 43 anos, nasceu em São Paulo e desde cedo demonstrou interesse por tecnologia e soluções digitais. Ainda jovem, começou a explorar programação por conta própria e, após concluir a faculdade, decidiu investir na criação de uma pequena empresa de desenvolvimento de software. Ao longo dos anos, formou um time enxuto de dez pessoas, com projetos variados para clientes de diferentes segmentos, e hoje atua como líder estratégico e operacional da equipe. Sua rotina é repleta de desafios: gerenciar múltiplos projetos simultaneamente, alinhar demandas com clientes, supervisionar tarefas do time e garantir que os prazos sejam cumpridos. Embora seja dedicado e detalhista, Luís percebe que, à medida que a empresa cresce, manter uma visão clara do andamento de cada projeto se torna cada vez mais difícil. Inserido no ecossistema de startups e tecnologia, mantém networking ativo, participa de eventos do setor e valoriza práticas ágeis e comunicação direta. Em termos econômicos, busca soluções que tragam produtividade e bom custo-benefício, evitando ferramentas complexas que só aumentem a burocracia. Culturalmente adaptado a um ambiente colaborativo e inovador, ele procura uma aplicação capaz de fornecer dashboards objetivos, linha do tempo de projetos e checklists de atividades para acompanhar as entregas do time de forma prática e eficiente.
 
 ### Persona Secundária
 
-**Profissional fixo ou parceiro recorrente** (designer, dev, redator, analista)  
-- Executor fixo, busca clareza de prazos, checklists simples e notificações.  
-- Participa da execução diária das atividades e colabora constantemente com a equipe.  
+Mariana Reisz tem 29 anos, nasceu e cresceu em Campinas e, desde a adolescência, sempre gostou de criar e resolver problemas visuais. Formada em Design Gráfico, decidiu migrar para o digital ao perceber a demanda crescente por produtos e interfaces intuitivas, e hoje trabalha como designer em tempo integral em uma pequena empresa de desenvolvimento de software. Seu dia a dia é marcado por tarefas criativas e prazos curtos: criar layouts, revisar materiais e alinhar detalhes com o time de desenvolvimento. Mariana valoriza clareza e organização; para ela, entender exatamente o que precisa ser feito e quando entregar é essencial para manter a produtividade e a tranquilidade no trabalho. Culturalmente conectada ao universo digital, acompanha tendências de design, participa de comunidades online e troca experiências com outros profissionais da área. Em termos econômicos, busca estabilidade e boas oportunidades de aprendizado dentro da empresa, evitando complicações que atrasem seu fluxo criativo. Ela procura, em uma aplicação, checklists simples, prazos bem definidos, notificações objetivas e um painel claro do andamento dos projetos, que a ajudem a manter foco, priorizar tarefas e colaborar com a equipe sem sobrecarga.
 
 ### Outras Personas
 
-**Freelancer contratado pontualmente**  
-- Freelancer eventual, precisa de acesso limitado, tarefas bem definidas e comunicação centralizada.
+Espíndola Ferreira tem 35 anos, vive em Belo Horizonte e construiu sua carreira como desenvolvedor freelancer, atendendo projetos de curta duração para diferentes clientes. Ao longo dos últimos anos, especializou-se em implementar funcionalidades pontuais e resolver problemas técnicos com agilidade, mantendo uma carteira variada de trabalhos. Por atuar de forma independente, valoriza ferramentas simples e processos claros, pois muitas vezes lida com mais de um cliente ao mesmo tempo e precisa evitar retrabalho. Quando é contratado por uma empresa de desenvolvimento, como apoio temporário, recebe um escopo fechado e um prazo curto, concentrando-se totalmente na execução. Espíndola prefere comunicação objetiva, centralizada e com mínimo de burocracia, já que seu tempo é fracionado entre vários projetos. Culturalmente inserido no ecossistema tech, acompanha tendências e participa de fóruns online, mas mantém foco em produtividade e entrega de resultados. Para ele, uma aplicação ideal deve permitir acesso limitado ao que realmente importa: tarefas atribuídas, datas de entrega, comentários do gestor e um espaço centralizado para atualizar status, garantindo que possa colaborar de forma eficiente sem se perder em informações desnecessárias.
 
 ---
 
@@ -85,7 +74,7 @@ Nossa plataforma resolve isso oferecendo:
 
 ![Mapa de empatia](empatia.png)
 
-### Persona Primária – Ricardo
+### Persona Primária – Luís
 
 - **O que vê:** Calendário lotado, e-mails, planilhas, KPIs fragmentados.  
 - **O que ouve:** Clientes cobrando status, equipe pedindo prioridades, relatórios financeiros.  
@@ -103,6 +92,15 @@ Nossa plataforma resolve isso oferecendo:
 - **O que pensa e sente:** Quer foco e critérios claros de aprovação.  
 - **Dores:** Retrabalho, revisões sem histórico, prioridades pouco visíveis.  
 - **Ganhos:** Fluxo padronizado, checklists claros, entregas rastreáveis.
+
+### Outras Personas – Espíndola (Freelancer)
+
+- **O que vê:** Tarefas pontuais atribuídas, prazos curtos, comunicação fragmentada entre diferentes clientes e projetos.
+- **O que ouve:** Instruções objetivas do gestor, pedidos de atualização sobre entregas, feedbacks rápidos sobre o trabalho realizado.
+- **O que diz e faz:** Executa as tarefas designadas, atualiza status no sistema, solicita esclarecimentos quando necessário, foca em entregar no prazo.
+- **O que pensa e sente:** Deseja clareza e simplicidade, busca evitar retrabalho e perder tempo com informações irrelevantes; sente pressão pelo prazo e pela qualidade do trabalho.
+- **Dores:** Falta de acesso limitado às informações relevantes, comunicação dispersa, dificuldade em organizar tarefas de múltiplos clientes.
+- **Ganhos:** Acesso direto e limitado às tarefas, prazos claros, comunicação centralizada, foco na entrega sem sobrecarga.
 
 ---
 
@@ -174,6 +172,7 @@ Nossa plataforma resolve isso oferecendo:
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
