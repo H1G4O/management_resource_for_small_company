@@ -107,7 +107,7 @@ Espíndola Ferreira tem 35 anos, vive em Belo Horizonte e construiu sua carreira
 ## Contexto de Uso
 
 ### Ambiente de Uso
-
+(!)
 - Aplicação digital, utilizada em **trabalho remoto, híbrido ou em pequenos escritórios**, acessível por computadores e dispositivos móveis durante a execução e acompanhamento de tarefas.
 
 ### Contexto Social
@@ -142,25 +142,25 @@ Espíndola Ferreira tem 35 anos, vive em Belo Horizonte e construiu sua carreira
 
 ## Análise de concorrência
 
-- Pesquise serviços ou podutos existentes atualmente que possam realizar o objetivo deste projeto.
+- Pesquise serviços ou produtos existentes atualmente que possam realizar o objetivo deste projeto.
 - Selecione pelo menos 3 serviços ou podutos diferentes.
 - Em relação aos concorrentes, respondam as seguintes perguntas?
   - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
 
 ## Coleta de dados
-
+(!!!!!!!)
 ## Modelo de tarefas
-
+(!!!!!)
 ## Design
 
-- Pense nas características de Affordances do seu serviço ou poduto. 
+- Pense nas características de Affordances do seu serviço ou produto. 
     - Que tipo de acessibilidades devem ser consideradas dentro do seu projeto?
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
 
 ### Prototipação em baixo nível (papel)
 #### Avaliação heurística
-
+(!!!!!!)
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
 
@@ -172,6 +172,7 @@ Espíndola Ferreira tem 35 anos, vive em Belo Horizonte e construiu sua carreira
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
