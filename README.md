@@ -107,8 +107,15 @@ Espíndola Ferreira tem 35 anos, vive em Belo Horizonte e construiu sua carreira
 ## Contexto de Uso
 
 ### Ambiente de Uso
-(!)
-- Aplicação digital, utilizada em **trabalho remoto, híbrido ou em pequenos escritórios**, acessível por computadores e dispositivos móveis durante a execução e acompanhamento de tarefas.
+
+A aplicação será utilizada em ambientes de trabalho remoto, híbrido ou em pequenos escritórios, voltados à gestão de tarefas colaborativas. O acesso será feito tanto por computadores quanto por dispositivos móveis, permitindo o acompanhamento das atividades em tempo real durante todas as etapas do projeto.
+
+ - O uso da plataforma se encaixa nos principais momentos do fluxo de trabalho das equipes:
+  - Início do dia: verificação de tarefas pendentes, prazos e prioridades do dia.
+  - Durante a execução: acompanhamento do progresso das atividades, comunicação entre membros e atualização de status.
+  - Próximo ao deadline: revisão de checklists, conferência de entregas e aprovação final das tarefas.
+  - Pós-entrega: registro de lições aprendidas, arquivamento de projetos concluídos e ajustes no fluxo de trabalho para futuras iterações.
+---
 
 ### Contexto Social
 
@@ -118,13 +125,6 @@ Espíndola Ferreira tem 35 anos, vive em Belo Horizonte e construiu sua carreira
   - Atividades: tarefas, prazos, anexos, observações.  
   - Colaboração: histórico de alterações, checklists, aprovações.  
   - Visão Geral: métricas, dashboards, linha do tempo.  
-
-- Ambiente típico de uso:  
-  - Início do dia: verificação de prazos e prioridades.  
-  - Durante a execução: acompanhamento de tarefas e handoffs.  
-  - Pré-deadline: conferência de checklists e aprovação.  
-  - Pós-entrega: registro de lições aprendidas e ajustes de workflow.
-
 ---
 
 ## Jornada do Usuário
@@ -149,7 +149,47 @@ Espíndola Ferreira tem 35 anos, vive em Belo Horizonte e construiu sua carreira
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
 
 ## Coleta de dados
-(!!!!!!!)
+### Modelo de entrevista:
+Objetivo: entender hábitos, dificuldades e expectativas de profissionais que trabalham em equipe ou como freelancers na gestão de tarefas.
+
+Duração: cerca de 10 a 15 minutos.
+Formato: presencial ou online (videoconferência).
+Participantes ideais: pequenos gestores, designers, desenvolvedores ou freelancers.
+
+Roteiro
+
+  - Contexto do trabalho
+    
+-Pode me contar brevemente como é seu dia a dia profissional?
+
+-Você trabalha sozinho(a) ou em equipe? De quantas pessoas?
+
+  - Organização de tarefas
+    
+-Como você costuma organizar suas tarefas ou as do seu time?
+
+-Quais ferramentas ou métodos usa atualmente (ex: Trello, planilhas, agenda)?
+
+  - Dores e desafios
+    
+-O que mais te incomoda nas ferramentas que usa hoje?
+
+-Já teve problemas com prazos, comunicação ou tarefas esquecidas?
+
+  - Colaboração
+    
+-Como é a comunicação entre o time durante um projeto?
+
+-Você sente falta de alguma funcionalidade que facilitaria essa colaboração?
+
+  - Expectativas
+    
+-Se pudesse criar a ferramenta ideal de gestão de tarefas, o que ela teria?
+
+-Qual seria o diferencial que te faria preferir uma nova plataforma?
+    
+(https://forms.cloud.microsoft/r/U1Lwzhftfm)
+
 ## Modelo de tarefas
 (!!!!!)
 ## Design
@@ -159,6 +199,8 @@ Espíndola Ferreira tem 35 anos, vive em Belo Horizonte e construiu sua carreira
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
 
 ### Prototipação em baixo nível (papel)
+(!!!!!!)
+
 #### Avaliação heurística
 (!!!!!!)
 ### Prtotipação em médio nível (Figma)
@@ -172,6 +214,7 @@ Espíndola Ferreira tem 35 anos, vive em Belo Horizonte e construiu sua carreira
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
