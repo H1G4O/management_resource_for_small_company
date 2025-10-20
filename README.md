@@ -142,11 +142,8 @@ A aplicação será utilizada em ambientes de trabalho remoto, híbrido ou em pe
 
 ## Análise de concorrência
 
-- Pesquise serviços ou produtos existentes atualmente que possam realizar o objetivo deste projeto.
-- Selecione pelo menos 3 serviços ou podutos diferentes.
-- Em relação aos concorrentes, respondam as seguintes perguntas?
-  - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
-  - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
+<img width="1141" height="656" alt="image" src="https://github.com/user-attachments/assets/00d3799f-f961-4b14-8cd9-ab74041161d1" />
+
 
 ## Coleta de dados
 ### Modelo de entrevista:
@@ -191,7 +188,8 @@ Roteiro
 (https://forms.cloud.microsoft/r/U1Lwzhftfm)
 
 ## Modelo de tarefas
-(!!!!!)
+<img width="1011" height="815" alt="image" src="https://github.com/user-attachments/assets/67834e86-896a-4f00-8cc3-a84b5f86e648" />
+
 ## Design
 
 - Pense nas características de Affordances do seu serviço ou produto. 
@@ -204,8 +202,9 @@ Roteiro
 #### Avaliação heurística
 (!!!!!!)
 ### Prtotipação em médio nível (Figma)
+(!!!)
 #### Avaliação heurística
-
+(!!!)
 ### Prtotipação em alto nível (React)
 #### Avaliação heurística
 
@@ -214,6 +213,7 @@ Roteiro
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
