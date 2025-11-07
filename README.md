@@ -201,9 +201,6 @@ Roteiro
 <img src="https://github.com/user-attachments/assets/a87d403f-2730-4177-b856-eefc98a1e6da" alt="papel 1" width="50%">
 <img src="https://github.com/user-attachments/assets/6b008b04-d188-4b0e-905b-bd3be3db155e" alt="papel 1" width="50%">
 
-
-#### Avaliação heurística
-(!!!!!!)
 ### Prototipação em médio nível (Figma)
 https://mentor-pep-22313398.figma.site
 
@@ -215,6 +212,7 @@ https://mentor-pep-22313398.figma.site
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
