@@ -206,16 +206,16 @@ Roteiro
 (!!!!!!)
 ### Prototipação em médio nível (Figma)
 https://mentor-pep-22313398.figma.site
+
 #### Avaliação heurística
-(!!!)
-### Prtotipação em alto nível (React)
-#### Avaliação heurística
+[Modelo 03 Avaliacao Heuristica Yllan-LucasAlves.xlsx](https://github.com/user-attachments/files/23426592/Modelo.03.Avaliacao.Heuristica.Yllan-LucasAlves.xlsx)
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
